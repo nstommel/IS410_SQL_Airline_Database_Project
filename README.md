@@ -9,4 +9,6 @@ For this project, I created a database model for an imaginary airline company to
 -Keep records for each employee and what flights they have served on.<br/>
 -Keep a history of tickets/boarding passes for each customer on each flight.<br/>
 
-A full entity relationship (ER) model is provided as well as a normalized relational model.
+A full entity relationship (ER) diagram as well as a normalized relational model is provided below:
+![alt text](https://github.com/nstommel/IS_410_SQL_Airline_Database_Project/blob/main/ER_Diagram.png?raw=true)
+![alt text](https://github.com/nstommel/IS_410_SQL_Airline_Database_Project/blob/main/Normalized_Relational_Model.png?raw=true)
